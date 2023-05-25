@@ -1,3 +1,5 @@
+// Assignment solution for c++ 
+
 #include <iostream>
 #include <vector>
 #include <queue>
@@ -69,11 +71,12 @@ int main() {
 }
 
 
-Input: Enter the number of nodes and edges: 4 3
-Enter the edges and their weights: 
-2 1 1
-2 3 1
-3 4 1
+/* Input: Enter the number of nodes and edges: 4 3
+ Enter the edges and their weights: 
+ 2 1 1
+ 2 3 1
+ 3 4 1
 Enter the source node: 2
 Output:
 Minimum time taken for all nodes to receive the signal: 2
+*/
